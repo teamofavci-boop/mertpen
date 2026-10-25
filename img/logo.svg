@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1100" role="img" aria-label="Mert Pen PVC Doğrama">
+  <rect width="1254" height="1100" fill="#fff"/>
+  <g transform="translate(0,-60)">
+    <polygon points="373,370 693,181 693,245 373,438" fill="#065DAC"/>
+    <polygon points="403,421 463,386 463,705 403,705" fill="#065DAC"/>
+    <polygon points="493,405 716,285 716,705 493,705" fill="#065DAC"/>
+    <polygon points="511,413 688,330 688,681 511,681" fill="#fff"/>
+    <polygon points="528,425 671,357 671,664 528,664" fill="#1072BB"/>
+    <polygon points="590,396 604,389 604,664 590,664" fill="#fff"/>
+    <polygon points="528,548 671,510 671,524 528,562" fill="#fff"/>
+    <polygon points="662,372 668,369 622,452 616,455" fill="#fff" opacity=".55"/>
+    <polygon points="576,574 582,571 536,642 530,645" fill="#fff" opacity=".55"/>
+    <polygon points="741,358 826,403 826,705 797,705 797,420 741,392" fill="#065DAC"/>
+    <polygon points="741,287 876,374 876,705 846,705 846,392 741,326" fill="#8B919D"/>
+  </g>
+  <text x="627" y="890" text-anchor="middle" font-family="'Plus Jakarta Sans',Arial,sans-serif" font-size="150" font-weight="800" fill="#065DAC">MERT <tspan fill="#8B919D">PEN</tspan></text>
+  <line x1="133" y1="960" x2="280" y2="960" stroke="#808895" stroke-width="4"/>
+  <line x1="974" y1="960" x2="1121" y2="960" stroke="#808895" stroke-width="4"/>
+  <text x="627" y="978" text-anchor="middle" font-family="'Plus Jakarta Sans',Arial,sans-serif" font-size="56" font-weight="700" fill="#808895" letter-spacing="9">PVC DOĞRAMA</text>
+  <text x="627" y="1045" text-anchor="middle" font-family="'Plus Jakarta Sans',Arial,sans-serif" font-size="32" font-weight="600" fill="#808895" letter-spacing="9">PENCERE VE KAPI SİSTEMLERİ</text>
+</svg>

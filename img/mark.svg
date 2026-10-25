@@ -1,12 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1B5FA8"/>
-      <stop offset="1" stop-color="#0B2545"/>
-    </linearGradient>
-  </defs>
-  <rect x="6" y="6" width="68" height="68" rx="10" fill="url(#g)"/>
-  <rect x="13" y="13" width="54" height="54" rx="4" fill="none" stroke="#fff" stroke-width="3"/>
-  <polyline points="21,58 21,22 40,42 59,22 59,58" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
-  <line x1="46" y1="62" x2="62" y2="46" stroke="#F7931E" stroke-width="4" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="365 170 520 545">
+  <!-- Mert Pen logosu: eğimli çatılı ev, ortada dört bölmeli pencere -->
+  <polygon points="373,370 693,181 693,245 373,438" fill="#065DAC"/>
+  <polygon points="403,421 463,386 463,705 403,705" fill="#065DAC"/>
+  <polygon points="493,405 716,285 716,705 493,705" fill="#065DAC"/>
+  <polygon points="511,413 688,330 688,681 511,681" fill="#fff"/>
+  <polygon points="528,425 671,357 671,664 528,664" fill="#1072BB"/>
+  <polygon points="590,396 604,389 604,664 590,664" fill="#fff"/>
+  <polygon points="528,548 671,510 671,524 528,562" fill="#fff"/>
+  <polygon points="662,372 668,369 622,452 616,455" fill="#fff" opacity=".55"/>
+  <polygon points="576,574 582,571 536,642 530,645" fill="#fff" opacity=".55"/>
+  <polygon points="741,358 826,403 826,705 797,705 797,420 741,392" fill="#065DAC"/>
+  <polygon points="741,287 876,374 876,705 846,705 846,392 741,326" fill="#8B919D"/>
 </svg>
